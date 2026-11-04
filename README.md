@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst · Mobile Developer · IoT & Spatial Data Enthusiast</h3>
 
 <p align="center">
-  Computer Science graduate from <b>Universitas Pembangunan Nasional "Veteran" Jakarta (UPNVJ)</b> with a strong interest in spatial data extraction, Android development, and IoT architecture. I combine hands-on internship experience with running a local fish distribution business, so I build data and software solutions that solve real operational problems.
+  Computer Science graduate with a strong interest in spatial data extraction, Android development, and IoT architecture. I combine hands-on internship experience with running a local fish distribution business, so I build data and software solutions that solve real operational problems.
 </p>
 
 <p align="center">
