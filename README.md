@@ -34,7 +34,7 @@
 |---|---|---|
 | **[indonesia-geojson-kelurahan](https://github.com/BagasAbi/indonesia-geojson-kelurahan)** | Spatial Data Infrastructure | Open-source repository of structured GeoJSON boundaries for Indonesia, from Province down to Kelurahan/Desa level. Extracted and optimized from multiple public sources (including BPS *Dalam Angka*) without relying on an official API. |
 | **IoT Water Quality Monitoring Buoy** *(Undergraduate Thesis)* | IoT & Data Compression | ESP32-based floating buoy that monitors water quality in a *setu* (lake). Uses threshold-based filtering and Gzip compression (Miniz library) to make data transmission more efficient. |
-| **Juragan Kakap Mobile App** | Android Development | Custom Android app (Java/Kotlin, Android Studio, RecyclerView, Retrofit) for managing operations, chest-freezer inventory, and daily frozen fish sales distribution. |
+| **[Juragan Kakap Mobile App](https://github.com/BagasAbi/JuraganKakap-)** | Android Development | Custom Android app (Java/Kotlin, Android Studio, RecyclerView, Retrofit) for managing operations, chest-freezer inventory, and daily frozen fish sales distribution. |
 | **Animalearn** | Augmented Reality (AR) | Educational AR application developed using the Vuforia SDK to display 3D animal models, creating an immersive learning experience. |
 | **AI Inventory System** | Backend Development | Microservices backend built with Flask (Python) and Node.js (Express/Vite), integrated with a Supabase database. |
 
