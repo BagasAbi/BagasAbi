@@ -22,7 +22,7 @@
 
 - 🎓 **Education:** Bachelor of Computer Science (S.Kom), UPN "Veteran" Jakarta — graduated August 2026.
 - 🔭 **Current focus:** Building a Data Analyst portfolio around Python spatial data processing, machine learning models, and database management.
-- 💼 **Programs & Certifications:** Kampus Merdeka · Hacktiv8 × IBM SkillsBuild (Student Developer Initiative) · Certiport · Wadhwani Foundation.
+- 💼 **Programs & Certifications:** BNSP in Certified Junior / Associate Data Scientist · Hacktiv8 × IBM SkillsBuild (Student Developer Initiative) · Certiport · Wadhwani Foundation.
 - 🏢 **Entrepreneurship:** Founder & Developer of **Juragan Kakap**, a fresh and frozen fish distribution business in South Jakarta.
 - 📫 **Reach me:** Email me about entry-level Data Analyst / Software Engineer roles or internship opportunities.
 
